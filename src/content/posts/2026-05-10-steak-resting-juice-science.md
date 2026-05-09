@@ -141,3 +141,9 @@ draft: false
 ---
 
 이 글의 원본 영상: {{youtube_url}}
+
+
+---
+
+> 이 글의 원본 영상을 확인하세요.
+> [영상으로 보기](https://youtube.com/watch?v=NrqSJsk6MR0)
