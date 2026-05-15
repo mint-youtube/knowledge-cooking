@@ -4,6 +4,7 @@ export const CHANNEL = {
   emoji: "🍳",
   category: "교육",
   tagline: "음식이 들려주는 이야기",
+  youtubeUrl: "https://youtube.com/channel/UC8mmaY5iOPuqOV_woEQNFiQ",
   layoutId: "warm-recipe-card",
   isLight: true,
   tokens: {
