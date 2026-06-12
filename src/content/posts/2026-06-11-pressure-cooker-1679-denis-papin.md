@@ -5,7 +5,7 @@ pubDate: 2026-06-11T16:42:00+09:00
 author: ""
 category: ""
 tags: ["드니 파팽", "압력솥 발명", "압력솥 원리", "끓는점 압력 관계", "주방 과학 역사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=riP5JBaJLD4"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-11-pressure-cooker-1679-denis-papin/scene-2_img_2.png"
 draft: false
 ---

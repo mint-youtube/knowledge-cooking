@@ -5,7 +5,7 @@ pubDate: 2026-05-21T20:49:00+09:00
 author: ""
 category: ""
 tags: ["우마미", "umami", "MSG", "글루탐산", "이케다 기쿠나에", "제5의 맛", "다시마", "감칠맛", "이노신산", "T1R1 T1R3"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=-lqEwuW0Zdk"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-21-umami-ikeda-msg-1908/scene-2_img_2.png"
 draft: false
 ---

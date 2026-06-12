@@ -5,7 +5,7 @@ pubDate: 2026-05-11T09:00:00+09:00
 author: ""
 category: ""
 tags: ["스테이크 레스팅", "육즙 보존", "스테이크 굽는 방법", "레스팅 시간", "미디엄 레어", "단백질 변성", "요리 과학", "스테이크 굽기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=sJ8aHF9V3ug"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-10-steak-resting-juice-science/intro_img_2.png"
 draft: false
 ---

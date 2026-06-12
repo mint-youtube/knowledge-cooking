@@ -5,7 +5,7 @@ pubDate: 2026-05-10T09:00:00+09:00
 author: ""
 category: ""
 tags: ["파스타 소금 양", "파스타 물 염도", "삼투압 요리 과학", "이탈리아 파스타 비법", "마르첼라 하잔", "파스타 삶는 법", "레스토랑 파스타 맛"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mhfoyfikmVw"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-09-why-pasta-water-salty-as-sea/intro_img_1.png"
 draft: false
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-05-17T09:00:00+09:00
 author: ""
 category: ""
 tags: ["마늘 알리신", "알리신 효능", "마늘 10분 기다리기", "마늘 조리법", "마늘 혈압", "마늘 콜레스테롤", "알리신 생성 원리", "마늘 항균 효과", "마늘 슈퍼푸드", "알리나아제"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mK4NmpFbyno"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-16-caramel-onion-vs-maillard-steak-science/intro_img_1.png"
 draft: false
 ---

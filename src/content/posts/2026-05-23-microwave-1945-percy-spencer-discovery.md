@@ -5,7 +5,7 @@ pubDate: 2026-05-23T19:29:00+09:00
 author: ""
 category: ""
 tags: ["전자레인지 원리", "퍼시 스펜서", "마그네트론", "전자레인지 발명사", "1945년", "레이더레인지", "마이크로파", "물 분자 진동", "주방 가전 역사", "발명 이야기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=0DMuQytdtNA"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-23-microwave-1945-percy-spencer-discovery/scene-2_img_2.png"
 draft: false
 ---

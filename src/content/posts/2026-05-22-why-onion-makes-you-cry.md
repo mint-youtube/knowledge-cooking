@@ -5,7 +5,7 @@ pubDate: 2026-05-22T12:23:00+09:00
 author: ""
 category: ""
 tags: ["양파 눈물", "황화합물", "PSO", "양파 영양", "케르세틴"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=yI9gcCiY7Hc"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-22-why-onion-makes-you-cry/scene-2_img_2.png"
 draft: false
 ---

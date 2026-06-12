@@ -5,7 +5,7 @@ pubDate: 2026-06-04T09:00:00+09:00
 author: ""
 category: ""
 tags: ["빵 발효 원리", "효모 이산화탄소", "글루텐 역할", "제빵 과학", "오븐 스프링"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=bJnA5GWAFkk"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-04-bread-rise-yeast-science/scene-2_img_2.png"
 draft: false
 ---

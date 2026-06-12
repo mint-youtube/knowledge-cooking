@@ -5,7 +5,7 @@ pubDate: 2026-06-01T20:47:00+09:00
 author: ""
 category: ""
 tags: ["양파 캐러멜화", "마이야르 반응", "양파 단맛", "요리 과학", "양파 볶는 법", "음식 화학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=ET4_UBfMIQk"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-01-caramelized-onion-science/scene-2_img_2.png"
 draft: false
 ---

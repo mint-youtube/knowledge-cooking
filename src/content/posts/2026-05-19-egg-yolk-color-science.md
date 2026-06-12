@@ -5,7 +5,7 @@ pubDate: 2026-05-19T20:08:00+09:00
 author: ""
 category: ""
 tags: ["달걀 노른자 색", "카로티노이드", "RYCF", "달걀 영양", "양계 사료"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=OllXqEj2C70"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-19-egg-yolk-color-science/scene-2_img_2.png"
 draft: false
 ---

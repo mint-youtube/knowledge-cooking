@@ -5,7 +5,7 @@ pubDate: 2026-05-28T09:00:00+09:00
 author: ""
 category: ""
 tags: ["초콜릿 템퍼링", "코코아 버터", "결정 구조", "5형 베타 결정", "쇼콜라티에", "시드 템퍼링", "초콜릿 블룸", "홈베이킹", "초콜릿 화학", "초콜릿 윤기"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Fto-YiTFOYM"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-05-28-chocolate-tempering-six-crystals-science/scene-2_img_2.png"
 draft: false
 ---

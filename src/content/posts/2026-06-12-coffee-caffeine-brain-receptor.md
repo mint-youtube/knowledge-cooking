@@ -5,7 +5,7 @@ pubDate: 2026-06-12T09:00:00+09:00
 author: ""
 category: ""
 tags: ["카페인 작동 원리", "아데노신 수용체", "커피 뇌과학", "카페인 내성", "커피 최적 시간"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=6fqdScM7Smw"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-12-coffee-caffeine-brain-receptor/scene-2_img_2.png"
 draft: false
 ---
