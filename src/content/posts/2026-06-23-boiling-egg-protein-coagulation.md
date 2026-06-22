@@ -5,7 +5,7 @@ pubDate: 2026-06-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["삶은 달걀", "반숙 완숙", "달걀 단백질", "단백질 응고 온도", "온천란", "수비드 달걀", "달걀 삶는 법", "음식 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=lvdvbYUCiig"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-23-boiling-egg-protein-coagulation/scene-2_img_2.png"
 draft: false
 ---
