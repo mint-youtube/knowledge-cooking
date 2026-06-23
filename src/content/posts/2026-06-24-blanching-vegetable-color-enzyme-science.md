@@ -5,7 +5,7 @@ pubDate: 2026-06-24T09:00:00+09:00
 author: ""
 category: ""
 tags: ["데치기", "시금치 데치기", "엽록소", "효소", "블랜칭", "채소 손질", "요리 과학", "찬물 충격", "가열 과학", "채소 색"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=7DbH0jnFMNU"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-24-blanching-vegetable-color-enzyme-science/scene-2_img_2.png"
 draft: false
 ---
