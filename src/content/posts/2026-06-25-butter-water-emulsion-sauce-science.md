@@ -5,7 +5,7 @@ pubDate: 2026-06-25T09:00:00+09:00
 author: ""
 category: ""
 tags: ["유화", "버터 소스", "유화의 과학", "몽테 오 뵈르", "에멀젼", "레시틴", "소스 분리", "요리 과학", "마요네즈 원리"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=VkeT2wliAMY"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-25-butter-water-emulsion-sauce-science/scene-2_img_2.png"
 draft: false
 ---
