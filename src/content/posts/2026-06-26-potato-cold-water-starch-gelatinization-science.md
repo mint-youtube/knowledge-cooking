@@ -5,7 +5,7 @@ pubDate: 2026-06-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["전분 호화", "감자 삶기", "찬물 감자", "호화 온도", "포슬포슬 감자", "아밀로스", "감자 설익음", "요리 과학", "감자 삶는 법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=17jSCypOLrs"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-26-potato-cold-water-starch-gelatinization-science/scene-2_img_2.png"
 draft: false
 ---
