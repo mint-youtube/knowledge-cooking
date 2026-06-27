@@ -5,7 +5,7 @@ pubDate: 2026-06-27T15:03:00+09:00
 author: ""
 category: ""
 tags: ["글루텐", "반죽 휴지", "글루텐 이완", "제빵 과학", "글루테닌", "글리아딘", "반죽 늘어남", "요리 과학", "밀가루 단백질"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mw3c1HBxNfA"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-27-resting-dough-gluten-relax-30-minutes-science/scene-2_img_2.png"
 draft: false
 ---
