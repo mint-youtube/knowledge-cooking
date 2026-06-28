@@ -5,7 +5,7 @@ pubDate: 2026-06-28T17:54:00+09:00
 author: ""
 category: ""
 tags: ["마이야르 반응", "육즙 봉인", "봉인 신화", "스테이크 굽기", "리버스 시어링", "캐러멜화", "고기 휴지", "요리 과학", "갈변 반응"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=2G5p1fxZlL0"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-28-searing-juice-seal-myth-maillard-science/scene-2_img_2.png"
 draft: false
 ---
