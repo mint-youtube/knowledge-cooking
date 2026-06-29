@@ -5,7 +5,7 @@ pubDate: 2026-06-29T14:40:00+09:00
 author: ""
 category: ""
 tags: ["수란", "포치드에그", "단백질 응고", "변성", "등전점", "식초 수란", "달걀 흰자", "요리 과학", "수란 만드는 법"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=SUJaTADFEZY"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-29-vinegar-poached-egg-protein-coagulation-science/scene-2_img_2.png"
 draft: false
 ---
