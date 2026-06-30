@@ -5,7 +5,7 @@ pubDate: 2026-06-30T18:44:00+09:00
 author: ""
 category: ""
 tags: ["빵 보관법", "전분 노화", "빵이 굳는 이유", "재결정화", "냉장 보관", "냉동 보관", "요리의 과학", "식품 화학", "빵 되살리기", "베이킹 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=KjvsD6277wY"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-06-30-bread-staling-fridge-starch-retrogradation-science/scene-2_img_2.png"
 draft: false
 ---
