@@ -5,7 +5,7 @@ pubDate: 2026-07-04T09:00:00+09:00
 author: ""
 category: ""
 tags: ["마이야르 반응", "마이야르 반응이란", "고기 굽는 법", "갈변 원리", "캐러멜화 차이", "루이 카미유 마이야르", "요리 과학", "스테이크 굽기 온도", "고기 갈변", "풍미 화합물"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=rXyB_wH9uzQ"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-04-maillard-reaction-1912-louis-discovery/scene-2_img_2.png"
 draft: false
 ---
@@ -92,5 +92,3 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 ![scene-9](https://assets.dailynote.blog/knowledge-cooking/2026-07-04-maillard-reaction-1912-louis-discovery/scene-9_img_2.png)
 
 추가로 소금을 미리 뿌려두는 것도 효과적인 방법입니다. 소금은 삼투압 작용으로 고기 표면의 수분을 끌어내는 효과가 있어, 결과적으로 표면을 더 건조하게 만들어 갈변을 돕습니다. 흥미롭게도 이 원리는 제과에서도 그대로 활용됩니다. 전통적으로 빵 반죽에 달걀물을 발라 굽는 것도 마이야르 반응을 강화하기 위한 방법입니다. 달걀에 풍부하게 들어있는 아미노산이 반죽 표면의 당분과 반응해 훨씬 진하고 윤기 있는 갈색 껍질을 만들어냅니다. 결국 마이야르 반응의 원리를 이해하면 고기 굽기뿐 아니라 빵을 굽거나 채소를 볶는 모든 조리 과정에서 더 나은 결과를 얻을 수 있습니다. 화학 반응이라는 말이 다소 낯설게 느껴질 수 있지만, 사실 우리가 매일 주방에서 반복하는 익숙한 동작 하나하나가 이 정교한 화학 원리 위에서 이루어지고 있는 셈입니다.
-
-이 글의 원본 영상: {{youtube_url}}
