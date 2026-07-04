@@ -5,7 +5,7 @@ pubDate: 2026-07-05T09:00:00+09:00
 author: ""
 category: ""
 tags: ["김치 발효 원리", "김치 삼투압", "젖산균 발효", "락토바실루스 플란타룸", "김치냉장고 온도", "김치 pH 변화", "루코노스톡", "김치 유산균", "발효 미생물", "김치 신맛 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=NqYQCVV9yiM"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-05-kimchi-fermentation-12-stages-chemistry/scene-2_img_2.png"
 draft: false
 ---
@@ -84,5 +84,3 @@ var stg = new Object(); stg.crt="113936426809";stg.version="1.05"; stg.id=stg.na
 ![scene-9](https://assets.dailynote.blog/knowledge-cooking/2026-07-05-kimchi-fermentation-12-stages-chemistry/scene-9_img_2.png)
 
 결국 김치는 어떤 절대적인 하나의 레시피가 아니라, 지역의 기후와 온도라는 변수에 맞추어 오랜 세월 미생물과 함께 조율해 온 결과물입니다. 배추를 절이는 소금의 삼투압에서 시작해, 초기 잡균의 산소 소비, 루코노스톡의 첫 등장, 락토바실루스로의 교체, 그리고 온도가 지배하는 속도 조절과 정밀한 저온 보관 기술에 이르기까지, 김치 한 포기 안에는 수백 종의 미생물이 만들어내는 정교한 화학 드라마가 담겨 있습니다. 다음에 김치냉장고 문을 열 때는, 그 안에서 지금 이 순간에도 조용히 진행되고 있는 발효라는 이름의 미생물 릴레이를 한번 떠올려 보아도 좋을 것 같습니다.
-
-이 글의 원본 영상: {{youtube_url}}
