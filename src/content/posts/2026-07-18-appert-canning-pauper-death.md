@@ -5,7 +5,7 @@ pubDate: 2026-07-18T09:00:00+09:00
 author: ""
 category: ""
 tags: ["니콜라 아페르", "통조림 발명", "병조림 원리", "식품 보존 과학", "파스퇴르 살균", "음식 역사", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=z8A-dIcY8K8"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-18-appert-canning-pauper-death/scene-2_img_2.png"
 draft: false
 ---
