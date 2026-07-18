@@ -5,7 +5,7 @@ pubDate: 2026-07-19T09:00:00+09:00
 author: ""
 category: ""
 tags: ["클래런스 버즈아이", "급속 냉동", "냉동식품 원리", "얼음 결정 과학", "식품 보존", "냉동 보관", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=emLqwKFAYI0"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-19-birdseye-flash-freezing-fortune/scene-2_img_2.png"
 draft: false
 ---
