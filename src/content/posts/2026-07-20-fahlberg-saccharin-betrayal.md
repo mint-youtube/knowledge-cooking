@@ -5,7 +5,7 @@ pubDate: 2026-07-20T09:00:00+09:00
 author: ""
 category: ""
 tags: ["사카린", "인공감미료", "콘스탄틴 팔베르크", "아이라 렘슨", "설탕 대체", "제로 음료", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=jajQSxa9DHU"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-20-fahlberg-saccharin-betrayal/scene-2_img_2.png"
 draft: false
 ---
