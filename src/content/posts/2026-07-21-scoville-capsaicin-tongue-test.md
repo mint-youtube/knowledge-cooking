@@ -5,7 +5,7 @@ pubDate: 2026-07-21T09:00:00+09:00
 author: ""
 category: ""
 tags: ["스코빌 지수", "매운맛 단위", "윌버 스코빌", "캡사이신", "TRPV1", "고추 매운맛", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=eK_9Jlb1WV4"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-21-scoville-capsaicin-tongue-test/scene-2_img_2.png"
 draft: false
 ---
