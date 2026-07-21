@@ -5,7 +5,7 @@ pubDate: 2026-07-22T09:00:00+09:00
 author: ""
 category: ""
 tags: ["안도 모모후쿠", "즉석 라면", "컵라면", "순간 유탕 건조", "닛신 식품", "라면 역사", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=5SP6FmPjnKg"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-22-ando-instant-ramen-bankruptcy-1958/scene-2_img_2.png"
 draft: false
 ---
