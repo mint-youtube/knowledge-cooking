@@ -5,7 +5,7 @@ pubDate: 2026-07-23T09:00:00+09:00
 author: ""
 category: ""
 tags: ["초콜릿 발효 과학", "카카오 발효", "마이야르 반응", "초콜릿 제조 과정", "발효 식품"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=cn637D86Jj4"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-23-chocolate-cacao-fermentation-science/scene-2_img_2.png"
 draft: false
 ---
