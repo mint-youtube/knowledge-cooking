@@ -5,7 +5,7 @@ pubDate: 2026-07-24T11:16:00+09:00
 author: ""
 category: ""
 tags: ["사워도우", "발효빵 원리", "야생효모", "락토바실루스", "이집트 빵", "글루텐", "스타터 만들기", "빵 발효", "산미", "천연발효"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=mHGvXEHkH74"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-24-sourdough-fermentation-3000-years-egypt/scene-2_img_2.png"
 draft: false
 ---
