@@ -5,7 +5,7 @@ pubDate: 2026-07-26T09:00:00+09:00
 author: ""
 category: ""
 tags: ["소금 단맛 강화", "나트륨 쓴맛 차단", "미각 과학", "수박 소금 이유", "요리 간 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=626tbxlEhIk"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-26-salt-sweet-bitter-suppression-science/scene-2_img_2.png"
 draft: false
 ---
