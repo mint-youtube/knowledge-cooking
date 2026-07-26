@@ -5,7 +5,7 @@ pubDate: 2026-07-27T09:00:00+09:00
 author: ""
 category: ""
 tags: ["초콜릿칩 쿠키", "루스 웨이크필드", "톨 하우스 쿠키", "네슬레", "베이킹 과학", "쿠키 역사", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=WEAbXTfIxVo"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-27-wakefield-chocolate-chip-cookie-dollar/scene-2_img_2.png"
 draft: false
 ---
