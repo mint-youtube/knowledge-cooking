@@ -5,7 +5,7 @@ pubDate: 2026-07-29T09:00:00+09:00
 author: ""
 category: ""
 tags: ["초록 감자", "솔라닌", "싹 난 감자", "감자 독", "감자 보관법", "식품 안전", "감자 손질", "글리코알칼로이드", "감자 중독", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=otKxu445euw"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-29-green-potato-solanine-toxin/scene-2_img_2.png"
 draft: false
 ---
