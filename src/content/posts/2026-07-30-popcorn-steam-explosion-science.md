@@ -5,7 +5,7 @@ pubDate: 2026-07-30T09:00:00+09:00
 author: ""
 category: ""
 tags: ["팝콘", "팝콘 원리", "옥수수", "페리카프", "팝콘 과학", "녹말 호화", "압력", "음식 과학", "요리의 과학", "팝콘 역사"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=BrCewImEID8"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-30-popcorn-steam-explosion-science/scene-2_img_2.png"
 draft: false
 ---
