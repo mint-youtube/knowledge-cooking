@@ -5,7 +5,7 @@ pubDate: 2026-07-31T09:00:00+09:00
 author: ""
 category: ""
 tags: ["사과 갈변", "폴리페놀 산화효소", "사과 갈색 이유", "갈변 막는 법", "레몬 갈변", "효소 산화", "음식 과학", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=Lq0JIoy0kgs"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-07-31-apple-cut-browning-enzyme-oxidation-science/scene-2_img_2.png"
 draft: false
 ---
