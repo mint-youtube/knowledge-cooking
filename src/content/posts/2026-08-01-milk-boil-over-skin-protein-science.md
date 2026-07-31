@@ -5,7 +5,7 @@ pubDate: 2026-08-01T09:00:00+09:00
 author: ""
 category: ""
 tags: ["우유 넘침", "우유 끓이기", "유청 단백질", "우유 막", "우유 데우기", "단백질 막", "음식 과학", "요리의 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=VB5lHu05mbQ"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-08-01-milk-boil-over-skin-protein-science/scene-2_img_2.png"
 draft: false
 ---
