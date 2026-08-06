@@ -5,7 +5,7 @@ pubDate: 2026-08-07T09:00:00+09:00
 author: ""
 category: ""
 tags: ["파인애플 젤리", "브로멜라인", "젤리 안 굳음", "단백질 분해 효소", "젤라틴", "연육제", "키위 젤리", "요리 과학"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=FEq_FB6H7kw"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-08-07-pineapple-gelatin-bromelain-enzyme-science/scene-2_img_2.png"
 draft: false
 ---
