@@ -5,7 +5,7 @@ pubDate: 2026-08-08T09:00:00+09:00
 author: ""
 category: ""
 tags: ["매운맛 우유", "캡사이신", "카제인", "매운맛 없애는 법", "TRPV1", "스코빌", "매운맛 과학", "엔도르핀"]
-youtubeUrl: ""
+youtubeUrl: "https://youtube.com/watch?v=t3N3UUYyQHI"
 heroImage: "https://assets.dailynote.blog/knowledge-cooking/2026-08-08-spicy-milk-capsaicin-casein-science/scene-2_img_2.png"
 draft: false
 ---
